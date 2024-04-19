@@ -23,10 +23,15 @@ Follow these steps to get the project up and running on your local machine.
 
 Node.js and npm installed on your machine.
 Clone the repository using the command - git clone https://github.com/username/projectname.git
+
 Change directory into your project file - cd projectname
+
 Install all dependencies with - npm install
+
 Compile the contract using Hardhat - npx hardhat compile
+
 Run deployment script- npx hardhat run scripts/deploy.js
+
 Interact with the deployed contract through transactions like transfers, minting, and burning.
 
 ## Author
